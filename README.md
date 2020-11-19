@@ -1,6 +1,7 @@
 # Arduino-Line-Tracking-Car
 Tracking the black line on the ground and avoid obstacles.  
-We use 2 infrared sensors and 3 ultrasound sensors.
+We use 2 infrared sensors and 3 ultrasound sensors.  
+Arduino board is arduino uno.
 
 
 
